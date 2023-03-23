@@ -1,0 +1,15 @@
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\bin\Debug\net6.0\ByteBankEx.exe
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\bin\Debug\net6.0\ByteBankEx.deps.json
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\bin\Debug\net6.0\ByteBankEx.runtimeconfig.json
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\bin\Debug\net6.0\ByteBankEx.dll
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\bin\Debug\net6.0\ByteBankEx.pdb
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\obj\Debug\net6.0\ByteBankEx.csproj.AssemblyReference.cache
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\obj\Debug\net6.0\ByteBankEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\obj\Debug\net6.0\ByteBankEx.AssemblyInfoInputs.cache
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\obj\Debug\net6.0\ByteBankEx.AssemblyInfo.cs
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\obj\Debug\net6.0\ByteBankEx.csproj.CoreCompileInputs.cache
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\obj\Debug\net6.0\ByteBankEx.dll
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\obj\Debug\net6.0\refint\ByteBankEx.dll
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\obj\Debug\net6.0\ByteBankEx.pdb
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\obj\Debug\net6.0\ByteBankEx.genruntimeconfig.cache
+C:\Users\Trabson\source\repos\CSharpException\ByteBankEx\obj\Debug\net6.0\ref\ByteBankEx.dll
